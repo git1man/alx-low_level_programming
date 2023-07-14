@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
- * main - Prints all single digit numbers of base 10 starting from 0
+ * Description of what the code does
  *
- * Return: Always 0 (Success)
+ * @param parameter_name Description of the parameter
+ * @return Description of the return value
  */
 int main(void)
 {
-  	  int i;
+  	 int i;
 
    	 for (i = 0; i < 10; i++)
    	 {
