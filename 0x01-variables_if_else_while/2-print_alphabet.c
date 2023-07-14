@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char alp[] = "abcdefghijklmnopqrstuvwxyz";
+	char alp[] = "asdfghjklqwertyuiopzxcvbnm";
 	int i;
 
 	for (i = 0; i < 26; i++)
